@@ -85,7 +85,7 @@ func withPreparedTarget(filesystem fs.Filesystem, from, to string, f func() erro
 	// Make sure the destination directory is writeable
 	toDir := filepath.Dir(to)
 	if info, err := filesystem.Stat(toDir); err == nil && info.IsDir() && info.Mode()&0200 == 0 {
-		filesystem.Chmod(toDir, 0755)
+		filesystem.Chmod(toDir, 0775)
 		defer filesystem.Chmod(toDir, info.Mode())
 	}
 
