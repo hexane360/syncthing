@@ -9,8 +9,8 @@ dmitri.shuralyov.com/state v0.0.0-20180228185332-28bcc343414c/go.mod h1:0PRwlb0D
 git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGynbRyZ4dJvy6G277gSllfV2HJqblrnkyeyg=
 github.com/AudriusButkevicius/pfilter v0.0.0-20210218141631-7468b85d810a h1:dUzIAgRmHLIUU0PT+OJ0X1WI5j1hlLbf+G420gUjIQg=
 github.com/AudriusButkevicius/pfilter v0.0.0-20210218141631-7468b85d810a/go.mod h1:1N0EEx/irz4B1qV17wW82TFbjQrE7oX316Cki6eDY0Q=
-github.com/AudriusButkevicius/recli v0.0.5 h1:xUa55PvWTHBm17T6RvjElRO3y5tALpdceH86vhzQ5wg=
-github.com/AudriusButkevicius/recli v0.0.5/go.mod h1:Q2E26yc6RvWWEz/TJ/goUp6yXvipYdJI096hpoaqsNs=
+github.com/AudriusButkevicius/recli v0.0.6 h1:hY9KH09vIbx0fYpkvdWbvnh67uDiuJEVDGhXlefysDQ=
+github.com/AudriusButkevicius/recli v0.0.6/go.mod h1:Nhfib1j/VFnLrXL9cHgA+/n2O6P5THuWelOnbfPNd78=
 github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c h1:/IBSNwUN8+eKzUzbJPqhK839ygXJ82sde8x3ogr6R28=
 github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c/go.mod h1:chxPXzSsl7ZWRAuOIE23GDNzjWuZquvFlgA8xmpunjU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
